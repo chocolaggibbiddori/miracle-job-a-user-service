@@ -22,6 +22,7 @@ User-Service는 사용자 관리와 관련된 핵심 기능을 제공합니다.
   - User-Service 총 책임자
   - 코드 리뷰 담당
   - 사용자와 관련된 여러 API 개발
+  - Response Model 설계
   - Swagger API 문서화 담당
   - DB 설계
   - JPA Entity 설계
